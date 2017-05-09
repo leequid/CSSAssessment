@@ -1,0 +1,42 @@
+h2, h3, h4, h5{
+  font-size: 1.5em;
+  color: GreenYellow;
+}
+
+thead{
+  font-style: bold;
+  color: Green;
+
+}
+blockquote {
+  background-color: black;
+  color: yellow;
+}
+
+img {
+  position: absolute;
+  opacity: 0.2;
+  height: 110px;
+  padding-top: 20px;
+
+}
+#checkbox-grid{
+  list-style-type: none;
+}
+
+
+
+#scoreBoard, th, td{
+  border: 1px solid orange;
+  border-collapse: collapse;
+  text-align: center;
+
+}
+
+a:hover{
+  background-color: LightGreen;
+  text-decoration: none;
+}
+ul{
+    list-style-type: square;
+}
